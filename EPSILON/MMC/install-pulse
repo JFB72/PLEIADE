@@ -4,8 +4,11 @@
 #
 #Créé par la société SIVEO
 #
-#Modfifier par Théo PORTIER
-
+#Modifié par Théo PORTIER
+#Travail à faire pour le finir :
+#-Chemins des configurations
+#-Lien GLPI BDD
+#-Automatisation de l'annuaire LDAP
 
 
 
