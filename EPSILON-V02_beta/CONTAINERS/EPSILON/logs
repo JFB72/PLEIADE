@@ -1,0 +1,10 @@
+Lancement du script...
+DEBUT : Fonction test_docker_installed
+Docker version 18.09.2, build 6247962
+FIN : test_docker_installed : 0
+DEBUT : Fonction search_image
+firefox
+FIN : search_image: 0
+DEBUT : Fonction run_container
+FIN : run_container: 0
+ Tout c'est bien passé ! Fin du script...

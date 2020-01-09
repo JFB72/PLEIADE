@@ -1,0 +1,1 @@
+Mageia Management Console

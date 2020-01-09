@@ -1,0 +1,34 @@
+
+.disconnect {
+	width: 9vw;
+	height: 9vw;
+	border: 2px;
+	margin-left: 3vw;
+	margin-top: 5vh;
+	margin-bottom: 5vh;
+	border-radius: 15px;
+	border-color: #9f5500;
+	border-style: solid;
+	
+}
+
+.disconnect img{
+	width: 9vw;
+	height: 9vw;
+}
+
+
+td img{
+	max-height:5vh;
+}
+
+.error {
+	color:#d50000;
+	background: #ff8a80;
+	border:5px solid #d50000;
+	border-radius: 5px;
+	width: 25vw;
+	margin-left:45vw;
+	margin-top:25vh;
+	padding:2vw;
+}
